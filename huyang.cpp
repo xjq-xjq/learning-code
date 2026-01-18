@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 int main() {
     int total, deadCount;
     cin >> total >> deadCount;
